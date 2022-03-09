@@ -5,3 +5,5 @@ Project by the Data Analisys course (SkillFactory).
   2. made conclusions about approaches in developing the game to lead users to purchase more quickly
 
 Used: pandas, include plots
+
+"GD. Project 2. Анализ воронки.ipynb" - main file
